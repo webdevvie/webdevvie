@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webdevvie
-- 👀 I’m interested in PHP, JS, Python, Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in PHP, JS, Python, Rust , Go
+- 🌱 I’m currently learning Rust, Go and plenty of other stuff
 - 💞️ I’m not looking to collaborate on anything due to being very busy at work :D
 - 📫 How to reach me : twitter.com/webdevvie , me at johnbakker.name
 
